@@ -1,11 +1,11 @@
 Package: geomorphotest
 Type: Package
-Title: Package for testing retordeformation techniques
-Version: 0.1.0
+Title: Generating artifical sets of landmarks.
+Version: 0.01
 Author: Jakub Nowicki
 Maintainer: Jakub Nowicki <q.nowicki@gmail.com>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Description: Package is a tool for creating artificial sets of landmarks with optional bilateral symmetry and simulation of tectonic deformations.
+License: GPL-2
 LazyData: TRUE
 RoxygenNote: 5.0.1
 Depends: morphoutils
