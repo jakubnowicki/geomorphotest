@@ -16,4 +16,3 @@ create.landmark.set(n.landmarks = 5, reflect = FALSE, base.seed = NA)
 \description{
 Create landmark monster
 }
-

@@ -24,4 +24,3 @@ Set of landmark monsters
 \description{
 Create random set of landmark monsters
 }
-

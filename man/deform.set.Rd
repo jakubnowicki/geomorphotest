@@ -5,7 +5,8 @@
 \title{Deform landmark set}
 \usage{
 deform.set(data, a.interval, theta.interval, noise.a.sd = 0.01,
-  noise.theta.sd = 0.01, deform.set.seed = NA)
+  noise.theta.sd = 0.01, deform.set.seed = NA, angle.interval = NULL,
+  nondeformed = 0)
 }
 \arguments{
 \item{data}{data}
@@ -23,4 +24,3 @@ deform.set(data, a.interval, theta.interval, noise.a.sd = 0.01,
 \description{
 Deform landmark set
 }
-

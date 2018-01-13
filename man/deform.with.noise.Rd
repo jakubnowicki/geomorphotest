@@ -5,7 +5,7 @@
 \title{Deform landmark monster}
 \usage{
 deform.with.noise(data, a, theta, noise.a.sd = 0.01, noise.theta.sd = 0.01,
-  deform.seed = NA)
+  deform.seed = NA, angle = NULL)
 }
 \arguments{
 \item{data}{landamrk monster}
@@ -19,8 +19,9 @@ deform.with.noise(data, a, theta, noise.a.sd = 0.01, noise.theta.sd = 0.01,
 \item{noise.theta.sd}{standard deviation of theta}
 
 \item{deform.seed}{deformation seed}
+
+\item{angle}{angle of deformation}
 }
 \description{
 Deform landmark monster
 }
-

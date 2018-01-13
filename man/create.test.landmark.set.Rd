@@ -23,4 +23,3 @@ create.test.landmark.set(n.landmarks = 5, reflect = FALSE,
 \description{
 Create test landmark set
 }
-
